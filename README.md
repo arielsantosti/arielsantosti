@@ -2,9 +2,8 @@
 
 Ariel Robert aqui, atuo hoje como Analista de Sistemas e como a carreira demanda estou sempre na busca de conhecimento.
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-          
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+         
 
 You can use the [editor on GitHub](https://github.com/arielsantosti/arielsantosti/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
