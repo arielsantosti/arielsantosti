@@ -9,8 +9,9 @@ De forma breve, segue as ferramentas e tecnologias que tenho experiência: <br>
 <!-- <img loading="" src="" width="40" height="30"/>  -->
 
 :construction: Perfil em construção :construction:
-
-
+.
+.
+.
 
 
 
